@@ -1,4 +1,4 @@
-Flask==2.0.2
-ChatterBot==1.0.5
-Flask-CORS==3.0.10
-SQLAlchemy==1.4.31
+Flask==1.1.2
+ChatterBot==1.0.4
+Flask-CORS==4.0.0
+SQLAlchemy==2.0.23
